@@ -1,0 +1,9 @@
+Session,HB % gms,TWBC cells/cu.mm,PC/Lakhs/cumm,S.CR mgs/dl,S.T.BILIRUBIN mgs/dl,S.CEA ng/mL
+Baseline,0.02,0.02,0.01,0.0,-0.01,0.0
+Before III chemo,0.02,0.02,0.01,0.0,-0.01,0.0
+Before V chemo,-0.04,0.0,-0.01,0.0,-0.01,0.01
+After VII chemo,0.02,-0.01,0.0,0.01,0.0,-0.01
+After 9 months,0.02,-0.01,0.0,-0.01,0.01,0.01
+After 12 months,0.02,0.01,0.0,0.0,-0.01,0.0
+After 15 months,0.02,-0.01,-0.01,-0.01,0.0,-0.01
+After 18 months,0.02,-0.01,0.0,0.0,-0.01,-0.01
