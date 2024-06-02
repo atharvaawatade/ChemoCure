@@ -6,7 +6,8 @@ ChemoCure is a Streamlit app designed to revolutionize the way chemotherapy trea
 
 Chemotherapy is a cornerstone of cancer treatment, but its effectiveness can vary widely depe
 
-Uploading app · Streamlit - Google Chrome 2024-06-02 22-40-32.mp4…
+https://github.com/atharvaawatade/ChemoCure/assets/97244560/0f3cf2cd-9fd7-475a-8d43-e537537aef63
+
 
 nding on numerous factors such as drug selection, dosage, and patient-specific characteristics. However, traditional approaches to chemotherapy planning often rely on simplistic models and trial-and-error methods, leading to suboptimal outcomes and unnecessary side effects.
 
