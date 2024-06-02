@@ -28,7 +28,7 @@ ChemoCure is built using the following technologies:
 
 - **GitHub**: The source code for ChemoCure is hosted on GitHub, enabling collaborative development and version control.
 
-- **Heroku (Optional)**: While the current version of ChemoCure is hosted on GitHub Pages for static content, future iterations may utilize Heroku or similar platforms for dynamic deployment and server-side processing.
+
 
 ## Getting Started
 
