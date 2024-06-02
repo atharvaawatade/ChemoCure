@@ -8,9 +8,14 @@ Chemotherapy is a cornerstone of cancer treatment, but its effectiveness can var
 
 ChemoCure addresses this challenge by harnessing the power of data science and machine learning to personalize chemotherapy regimens for each patient. By analyzing a wealth of patient data, including medical history, genetic markers, and treatment responses, ChemoCure generates tailored treatment plans that maximize efficacy while minimizing adverse effects.
 
-##DemoVideo:
-https://github.com/atharvaawatade/ChemoCure/assets/97244560/0f3cf2cd-9fd7-475a-8d43-e537537aef63
+## DemoVideo:
 
+
+
+https://github.com/atharvaawatade/ChemoCure/assets/97244560/255449c7-03c5-4364-bf2b-b41cfdee5188
+
+## Data for model Training:
+![Sheet](https://github.com/atharvaawatade/ChemoCure/assets/97244560/b865f4d1-5c9f-4e47-b150-f08dce493a48)
 
 ## Novelty
 
